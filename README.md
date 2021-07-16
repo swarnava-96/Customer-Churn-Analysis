@@ -1,3 +1,3 @@
 # Customer-Churn-Analysis-Power-Bi
 
-![image](https://user-images.githubusercontent.com/75041273/125990903-4901efff-8259-4a71-835f-c9e7d6e1c84e.png)
+![image](https://user-images.githubusercontent.com/75041273/125992801-bfc8d086-c554-49e5-b892-c66a94b34e44.png)
